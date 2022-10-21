@@ -1,0 +1,29 @@
+.flex {
+    display: flex;
+    background-color: aqua;
+    height: 300px;
+    justify-content: space-between;
+    flex-wrap: wrap-reverse;
+}
+
+.contenido1 {
+    background-color: antiquewhite;
+    height: 200px;
+    width: 100px;
+    border: 1px solid;
+}
+
+.contenido2 {
+    background-color: antiquewhite;
+    height: 200px;
+    width: 100px;
+    border: 1px solid;
+}
+
+.contenido3 {
+    background-color: antiquewhite;
+    height: 200px;
+    width: 100px;
+    border: 1px solid;
+}
+
