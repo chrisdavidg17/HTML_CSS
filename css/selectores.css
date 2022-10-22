@@ -1,0 +1,17 @@
+.button::content {
+    content: 'Pasa el mouse';
+}
+
+button {
+    width: 200px;
+    height: 30px;
+}
+
+button:hover {
+    background-color: lime;
+    color: white;
+}
+
+.button.btn::content {
+    content: 'Hecho';
+}
